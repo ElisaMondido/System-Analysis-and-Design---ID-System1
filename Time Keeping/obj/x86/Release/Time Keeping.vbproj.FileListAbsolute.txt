@@ -1,0 +1,26 @@
+D:\System\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.exe.config
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.vbprojResolveAssemblyReference.cache
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.IDForm.resources
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.TimeForm.resources
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.History.resources
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.Resources.resources
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.vbproj.GenerateResource.Cache
+D:\System\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.exe
+D:\System\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.pdb
+D:\System\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.xml
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.exe
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.xml
+D:\System\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.pdb
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.exe.config
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.exe
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.xml
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.pdb
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.exe
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.pdb
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\bin\x86\Release\Time Keeping.xml
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.vbprojResolveAssemblyReference.cache
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.IDForm.resources
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.TimeForm.resources
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.History.resources
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time_Keeping.Resources.resources
+C:\Users\kenneth\Desktop\Time In\Time Keeping\Time Keeping\obj\x86\Release\Time Keeping.vbproj.GenerateResource.Cache
